@@ -1,5 +1,3 @@
-// apps/pooler/src/type/index.ts
-
 // ---- TRADE STREAM DATA ----
 export type TradeData = {
   e: "trade";   // event type
