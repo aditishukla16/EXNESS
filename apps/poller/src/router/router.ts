@@ -1,4 +1,4 @@
-// apps/pooler/src/router/router.ts
+
 import type { TradeData, KlineData } from "../type";
 import { pub } from "../connectionredis/connectredis";
 
