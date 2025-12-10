@@ -1,3 +1,5 @@
+import dotenv from "dotenv";
+dotenv.config();
 import { DataStore } from "./services/datastore";
 import { RedisManager } from "./services/redis";
 import { WSManager } from "./services/websocket";
